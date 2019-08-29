@@ -1,0 +1,23 @@
+.foot{width:100%;background:#fafafa;height:600px;}
+.foot .foot-t{display:flex;justify-content:space-between;}
+.foot .foot-t li{text-indent:66px;font:18px/143px "";padding:0 35px;cursor: pointer;}
+.foot .foot-t li:nth-child(1){background:url("https://www.flyco.com/theme/feike_pc/images/ensure.png") no-repeat 35px 45px;}
+.foot .foot-t li:nth-child(2){background:url("https://www.flyco.com/theme/feike_pc/images/return.png") no-repeat 35px 45px;}
+.foot .foot-t li:nth-child(3){background:url("https://www.flyco.com/theme/feike_pc/images/free.png") no-repeat 35px 45px;}
+.foot .foot-t li:nth-child(4){background:url("https://www.flyco.com/theme/feike_pc/images/unprofor.png") no-repeat 35px 45px;}
+.foot .foot-c{display:flex;height:205px;border-top:2px solid #ecedef;border-bottom: 2px solid #ecedef}
+.foot .foot-c dl{margin-left:50px;padding-top:32px;width:140px;}
+.foot .foot-c dt{font:700 16px/1 "";padding-bottom:12px;}
+.foot .foot-c dd{font: 14px/27px "";color:.333;cursor: pointer}
+.foot .foot-c dd:hover{text-decoration: underline}
+.foot .foot-c .ma{text-align: center;margin-top:30px;}
+.foot .foot-c p{font:14px/19px "";color:.9fa0a0}
+.foot .foot-c .tel{margin:28px 0 0 45px;}
+.foot .foot-b{display: flex;padding-top:25px;color:.939191;}
+.foot .foot-b .foot-b-l{margin:11px 30px 0 0;}
+.foot .foot-b .foot-b-c p{width:570px;font:100 12px/25px "";}
+
+.foot .foot-b ul{display:flex;height:38px;margin:0px 0 0 47px;}
+.foot .foot-b ul li{padding:0 9px;border-left:1px solid .898989}
+.foot .foot-b ul li:nth-child(1){border-left:none}
+.foot .foot-b ul li img{width:95px;height:38px;}

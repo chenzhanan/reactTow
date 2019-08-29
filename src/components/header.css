@@ -1,0 +1,22 @@
+#t{width:100%;background: #fafafa;height:35px;border-bottom:1px solid #dfdfdf;}
+#top{width:1140px;height:35px;padding: 0 50px;columns: #a5a5a5;overflow:hidden;color:#a5a5a5}
+#top .top-l span{line-height: 35px;float:left;text-indent: 10px;cursor: pointer;}
+#top .top-l span:nth-headerchild(1){text-indent:0;}
+#top .topr{float:right;line-height: 35px;}
+#top .topr span{line-height: 35px;text-indent:10px;cursor: pointer;}
+#top .topr span a{color: #a5a5a5}
+
+.headerchild{width:1240px;padding-top:28px;clear: both;height:62px;}
+.headerchild .logo{float:left}
+.headerchild .sy{width:72px;height:23px;margin:22px 0 0 24px;float:left}
+.headerchild .sy a{display:  block;height:23px;;border-radius: 5px;cursor: pointer;color:#fff;
+text-align: center;background:#0c82d9 url(https://pic.flyco.net.cn/sources/new_pc/home.png) no-repeat 6px 2px; font:16px/24px "";padding-left:24px;
+}
+.headerchild .valign{cursor: pointer;}
+.headerchild .valign a{display: block;color:#fff;}
+.headerchild .valign a span{color:#fff}
+.headerchild p{float:right;width:126px;height:40px;background:#0c82d9;font:16px/40px "";color:#fff;text-align: center;margin-top:5px;cursor: pointer}
+.headerchild form{float:right;margin-top:5px;margin-right: 10px;}
+.headerchild form input{float:left;border: 1px solid #dfdfdf;}
+.headerchild form .txt{outline: none;width:392px;height:38px;text-indent: 5px;}
+.headerchild form .btn{width:42px;height:40px;background:#fff url("http://localhost/fk/shouye/img/searchbg.png");outline: none;border-left:none}

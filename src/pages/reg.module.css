@@ -1,0 +1,43 @@
+#main{text-align: center;margin-top:100px;width:320px;height:460px;}
+#main h3{font:24px/1 "";color:#0c82d9;}
+#main span{display:inline-block;float:left;}
+#main input{float:left;}
+#main .yzm{margin-top:30px;clear: both;}
+#main .yzm input{width:160px;height:30px;border:1px solid #ccc;border-left:0;border-right: 0;text-indent:7px;}
+#main .yzm span:nth-child(3){width:71px;font:18px/30px "";color:#333;}
+#main input{text-indent: 7px;}
+#main .yzm span:nth-child(4){width:40px;border-left:0;color:#0c82d9;font:12px/30px "";}
+#main span{width:31px;height:30px;border:1px solid #ccc;}
+#main>div{height:60px;}
+#main .tel{width:273px;height:30px;border:1px solid #ccc;border-left: none;}
+#main .user{width:273px;height:30px;border:1px solid #ccc;border-left: none;}
+
+#main .pass{width:273px;height:30px;border:1px solid #ccc;border-left: none;}
+#main .zhuce{height:30px;margin-top:10px;}
+#main .zhuce p{font:14px/30px "";color:#0c82d9;}
+#main .zhuce .btn{width:310px;height:30px;font:15px/2 "";color:#fff;background:#0c82d9;margin-top:10px;cursor: pointer}
+#main img{width:16px;height:16px;margin-top:7px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
